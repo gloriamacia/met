@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    background-color: #f0f0f0; /* Change this to your desired background color */
+}
+
+#searchButton {
+    background-color: #E4002B; /* Change this to your desired button color */
+    color: #ffffff; /* Ensure the text color is readable */
+    border: none; /* Remove the default border */
+}
+
+#searchButton:hover {
+    background-color: #E4002B; /* Darker shade for hover effect */
+}
+
+.btn-custom {
+    background-color: #E4002B; /* Button color */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove border if needed */
+}
+
+.btn-custom:hover {
+    background-color: #c30024; /* Darker shade for hover effect */
+}
+
